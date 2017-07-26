@@ -1,0 +1,5 @@
+vault {
+  # This is the address of the Vault leader. The protocol (http(s)) portion
+  # of the address is required.
+  address = "http://localhost:8200"
+}
